@@ -1,7 +1,7 @@
 name: own_customize_button
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/SushantChiplunkar/own-customize-button-library
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
