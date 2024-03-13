@@ -1,6 +1,6 @@
-name: own_customize_button
+name: own_customise_button
 description: "This is the custom button package. In this package we can add the button to our project and make it more customize as style and ohter factor."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/SushantChiplunkar/own-customize-button-library
 
 environment:
